@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922291988128",
+    "project_id": "housebookingapp-9a19d",
+    "storage_bucket": "housebookingapp-9a19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922291988128:android:1c3ed110d52d937c040bc5",
+        "android_client_info": {
+          "package_name": "com.example.housebookingapp.housebookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy_lPqxG3RDs4qYWOXDL2yFOu_hxjYvRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
